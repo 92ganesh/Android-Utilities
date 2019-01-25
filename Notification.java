@@ -1,19 +1,13 @@
-public class notification {
-
-
-}
-/*
-
 package com.example.exam.test;
 
-        import android.app.NotificationChannel;
-        import android.app.NotificationManager;
-        import android.os.Build;
-        import android.support.v4.app.NotificationCompat;
-        import android.support.v4.app.NotificationManagerCompat;
-        import android.support.v7.app.AppCompatActivity;
-        import android.os.Bundle;
-        import android.view.View;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
+import android.os.Build;
+import android.support.v4.app.NotificationCompat;
+import android.support.v4.app.NotificationManagerCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
     public static String CHANNEL_ID="CHANNEL_ID";
@@ -56,4 +50,3 @@ public class MainActivity extends AppCompatActivity {
         notificationManager.notify(101, mBuilder.build());
     }
 }
-*/
